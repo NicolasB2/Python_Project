@@ -1,9 +1,4 @@
 # Python_Project<br>
 
-***Super mario bros***
-<br>
-<br>
-<br>
-<br>
+***Game example of Super mario bros***
 
-![alt text](https://github.com/NicolasB2/Python_Project/blob/master/sources/graphics/screen.JPG)
